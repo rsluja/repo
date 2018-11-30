@@ -1,0 +1,41 @@
+section {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    position: relative;
+  }
+  
+  div {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+  
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+  
+    /* width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    margin-left: 90px;
+  
+    /*margin: top right bottom left*/
+    /*margin: 10px 20px;// 10px - top/bottom 20px - prawo/lewo */
+    /*margin 10px - wszystkie wartości*/
+  
+   /* border-width: 10px;
+    border-style: dashed;
+    border-color: #ccc;
+  
+   
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+  
+    box-sizing: border-box; */
+  }
